@@ -2,9 +2,6 @@
 twitter_credentials.txt
 
 #ignore ipynb checkpoint files
-*.ipynb_checkpoints*
-
 .ipynb_checkpoints/wrangle_act-checkpoint.ipynb
 .ipynb_checkpoints/wrangle_report-checkpoint.ipynb
-.ipynb_checkpoints/wrangle_act-checkpoint.ipynb
 .ipynb_checkpoints/act_report-checkpoint.ipynb
