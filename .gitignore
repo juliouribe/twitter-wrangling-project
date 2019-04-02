@@ -1,2 +1,5 @@
 # ignore twitter credentials
 twitter_credentials.txt
+
+#ignore ipynb checkpoint files
+*.ipynb_checkpoints*
