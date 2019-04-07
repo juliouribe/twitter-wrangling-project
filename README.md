@@ -1,8 +1,7 @@
 # twitter-wrangling-project
 
-Wrangling project for Udacity. Goal of project is to exercise and develop
-wrangling skills by gathering data from multiple sources, assessing data, and
-cleaning data.
+## Overview
+This is a wrangling project part of the Udacity Data Analyst Nanodegree. The goal of project is to exercise and develop wrangling skills by gathering data from multiple sources, assessing data, and cleaning data.
 
 The data we will be looking it is regarding the twitter profile, WeRateDogs,
 which is an account focused on creating tweets about dogs and giving them a
