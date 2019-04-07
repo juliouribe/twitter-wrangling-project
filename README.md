@@ -19,8 +19,8 @@ In this repository there are several files that are used as part of the
 gathering process, produced from cleaning, and are serve as reports.
 #### Twitter Credentials
 You will need your own twitter credentials to run all the code in 
-`wrangle_act`. Store them into a file called `creds.py` and look at the 
-twitter API code block for how to load credentials into the report. 
+`wrangle_act.ipynb`. Store them into a file called `creds.py` and look at 
+the twitter API code block for how to load credentials into the report. 
 Otherwise you can skip that and just load the `tweets_json.txt` file.
 #### Code
 `wrangle_act.ipynb` - this is the meat of this project. All the gathering,
@@ -30,7 +30,7 @@ Libraries used include Pandas, Numpy, Requests, Tweepy, Timeit, etc.
 `wrangle_report.html` - walkthrough of my though process when writing
 the gathering, asessing, and cleaning code.
 
-`act_report` - with the clean combined dataframe, I draw a couple insights
+`act_report.html` - with the clean combined dataframe, I draw a couple insights
 on the dogs rated via Tweets.
 #### Data Files
 `twitter_archive_enhanced.tsv` - this file was provided by Udacity and 
